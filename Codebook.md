@@ -1,11 +1,11 @@
 ## Code book for TidyData.txt
 
-SubjectID  
+###SubjectID  
 The unique integer ID of the volunteers taking part in the trial.  
 INTEGER  
 1..30  
 	
-Activity  
+###Activity  
 The activity the collected data relates to.  
 FACTOR  
 1 WALKING  
@@ -15,7 +15,7 @@ FACTOR
 5 STANDING  
 6 LAYING  
 
-Variable  
+###Variable  
 The names of the measures.  
 FACTOR  
 1 tBodyAcc-mean()-X  
@@ -85,7 +85,7 @@ FACTOR
 65 fBodyBodyGyroJerkMag-mean()  
 66 fBodyBodyGyroJerkMag-std()  
 	
-MeanValue  
+###MeanValue  
 Means of Variables in Variable. Units (N/A)  
 NUMERIC  
 -1..1   

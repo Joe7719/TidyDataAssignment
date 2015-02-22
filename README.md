@@ -5,9 +5,9 @@ The script requires that the source data is in the user's working directory.
 
 Required libraries are loaded into R.
 
-The subject_test.txt and subject_train.txt files containing the volunteer IDs are loaded into R variables and then combined into a single vector combinedRespID.
-The y_test.txt file and y_train.txt containing the activity IDs are loaded into R and combined into a single vector combinedActivityID.
-The X_test.txt file and X_train.txt containing the collected data are loaded into R and combined into a data set combinedMeasures.
+The subject_test.txt and subject_train.txt files containing the volunteer IDs are loaded into R variables and then combined into a single vector combinedRespID.  
+The y_test.txt file and y_train.txt containing the activity IDs are loaded into R and combined into a single vector combinedActivityID.  
+The X_test.txt file and X_train.txt containing the collected data are loaded into R and combined into a data set combinedMeasures.  
 
 A combined data set, combinedData, containing the volunteer Ids, the activity IDs and the collected data is made.
 
